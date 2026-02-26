@@ -112,8 +112,6 @@ Worked with token-based authentication
 
 Performed dependent API workflow validation
 
-Executed dynamic data-driven API testing
-
 👤 Author
 
 Pratik Kumar Singh
